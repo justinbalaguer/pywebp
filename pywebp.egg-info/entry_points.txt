@@ -1,0 +1,3 @@
+[console_scripts]
+pywebp = pywebp.__main__:main
+
