@@ -17,7 +17,8 @@ COMMAND LINE / TERMINAL: (directory of photos)
 
 BASIC:
 - [x] convert jpg and png to webp 
-- [ ] save all converted files to a separate folder
+- [x] save all converted files to a separate folder
+- [x] open the converted folder
 
 --:
-- [ ] support both path for windows and linux
+- [x] support both path for windows and linux

@@ -1,7 +1,7 @@
 from setuptools import setup
 setup(
   name = 'pywebp',
-  version = '1.0.0',
+  version = '1.0.1',
   packages = ['pywebp'],
   entry_points = {
       'console_scripts': [
